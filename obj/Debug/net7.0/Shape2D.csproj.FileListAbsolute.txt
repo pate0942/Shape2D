@@ -1,0 +1,15 @@
+C:\Users\patelz\Shape2D\bin\Debug\net7.0\Shape2D.exe
+C:\Users\patelz\Shape2D\bin\Debug\net7.0\Shape2D.deps.json
+C:\Users\patelz\Shape2D\bin\Debug\net7.0\Shape2D.runtimeconfig.json
+C:\Users\patelz\Shape2D\bin\Debug\net7.0\Shape2D.dll
+C:\Users\patelz\Shape2D\bin\Debug\net7.0\Shape2D.pdb
+C:\Users\patelz\Shape2D\obj\Debug\net7.0\Shape2D.csproj.AssemblyReference.cache
+C:\Users\patelz\Shape2D\obj\Debug\net7.0\Shape2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patelz\Shape2D\obj\Debug\net7.0\Shape2D.AssemblyInfoInputs.cache
+C:\Users\patelz\Shape2D\obj\Debug\net7.0\Shape2D.AssemblyInfo.cs
+C:\Users\patelz\Shape2D\obj\Debug\net7.0\Shape2D.csproj.CoreCompileInputs.cache
+C:\Users\patelz\Shape2D\obj\Debug\net7.0\Shape2D.dll
+C:\Users\patelz\Shape2D\obj\Debug\net7.0\refint\Shape2D.dll
+C:\Users\patelz\Shape2D\obj\Debug\net7.0\Shape2D.pdb
+C:\Users\patelz\Shape2D\obj\Debug\net7.0\Shape2D.genruntimeconfig.cache
+C:\Users\patelz\Shape2D\obj\Debug\net7.0\ref\Shape2D.dll
